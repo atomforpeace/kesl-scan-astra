@@ -1,0 +1,6 @@
+Package: kesl-scan-astra
+Version: 1.0
+Architecture: amd64
+Maintainer: Anton Lushnikov <antonlushnikow@gmail.com>
+Description: Scan file and directories via context menu in Astra Linux
+Depends: kesl

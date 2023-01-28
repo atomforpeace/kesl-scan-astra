@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Actions=Scan
+
+[Desktop Action Scan]
+Name=Scan
+Name[ru]=Сканировать на вирусы
+Exec=kesl-control --scan-file %F
+Icon=/opt/kaspersky/kesl/resource/shellex_logo.png
